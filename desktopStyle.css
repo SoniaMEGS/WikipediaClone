@@ -1,0 +1,41 @@
+footer .footerWikiVers{
+    display: block;
+}
+footer .footerWikiVers .footerWikiVers-1{
+    width: 30%;
+    float: left;
+    clear: left;
+}
+footer .footerWikiVers .footerWikiVers-3{
+    width: 30%;  
+    float: left;
+    clear: left;
+}
+footer .footerWikiVers .footerWikiVers-2{
+    width: 70%;
+}
+footer .footerWikiVers .footerWikiVers-wikisContainer{
+    margin-left: 2rem;
+}
+footer .footerWikiVers .footerWikiVers-fundacion{
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+}
+footer .footerWikiVers .footerWikiVers-fundacion div {
+    text-align: start;
+}
+footer .footerWikiVers .footerWikiVers-fundacion img {
+    margin-right: 1rem;
+}
+footer .footerWikiVers .footerWikiVers-download {
+    align-items: flex-start;
+    text-align: start;
+}
+footer .footerWikiVers .footerWikiVers-download .footerWikiVers-download_titulo img{
+    width: 3.5rem;
+    margin-right: 1.7rem;
+}
+footer .footerWikiVers .footerWikiVers-download .footerWikiVers-download_titulo2 {
+    padding-left: 5.2rem;
+}

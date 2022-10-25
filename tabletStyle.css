@@ -1,0 +1,64 @@
+
+header .wikiLogo-text {
+    display: block;
+    position: absolute;
+}
+header .wikiLogo {
+    display: block;
+    position: relative;
+    top: 19.2rem;
+}
+header .wikiLogo img{
+    width: 20rem;
+}
+
+main {
+    max-width: 540px;
+    margin: 0 auto;
+}
+main .mainIdiomas{
+    order: 1;
+}
+main .mainBuscador{
+    order: 2;
+    max-width: 43rem;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+}
+main .lang-list-border{
+    order: 3;
+}
+main .mainBoton{
+    order: 4;
+}
+
+main .mainIdiomas div{
+    width: 50%;
+    margin-bottom: 0rem;
+}
+main .mainIdiomas .mainIdiomas-3 {
+    justify-content: flex-start;
+    padding-left: 2.6rem;
+}
+main .mainIdiomas .mainIdiomas-5 {
+    justify-content: flex-start;
+}
+main .mainIdiomas .mainIdiomas-7 {
+    justify-content: flex-start;
+    padding-left: 2.6rem;
+}
+main .mainIdiomas .mainIdiomas-4 {
+    justify-content: flex-end;
+    padding-right: 2.6rem;
+}
+main .mainIdiomas .mainIdiomas-6 {
+    justify-content: flex-end;
+}
+main .mainIdiomas .mainIdiomas-8 {
+    justify-content: flex-end;
+    padding-right: 2.6rem;
+}
+footer .footerWikiVers .footerWikiVers-wikis {
+    width: 33.33%;
+    
+}
